@@ -1,0 +1,14 @@
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\userprofileapp.exe
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\appsettings.Development.json
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\appsettings.json
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\userprofileapp.dll
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\userprofileapp.deps.json
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\userprofileapp.runtimeconfig.json
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\userprofileapp.pdb
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\DnsClient.dll
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\MongoDB.Bson.dll
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\MongoDB.Driver.dll
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\Newtonsoft.Json.dll
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\SharpCompress.dll
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\Snappier.dll
+C:\Users\rajee\OneDrive\Desktop\.netProject\userprofileapp\publish\ZstdSharp.dll

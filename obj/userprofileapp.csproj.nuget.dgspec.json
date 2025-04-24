@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\UserProfileApp\\userprofileapp.csproj": {}
+    "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\userprofileapp\\userprofileapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\UserProfileApp\\userprofileapp.csproj": {
+    "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\userprofileapp\\userprofileapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\UserProfileApp\\userprofileapp.csproj",
+        "projectUniqueName": "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\userprofileapp\\userprofileapp.csproj",
         "projectName": "userprofileapp",
-        "projectPath": "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\UserProfileApp\\userprofileapp.csproj",
+        "projectPath": "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\userprofileapp\\userprofileapp.csproj",
         "packagesPath": "C:\\Users\\rajee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\UserProfileApp\\obj\\",
+        "outputPath": "C:\\Users\\rajee\\OneDrive\\Desktop\\.netProject\\userprofileapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajee\\AppData\\Roaming\\NuGet\\NuGet.Config"
